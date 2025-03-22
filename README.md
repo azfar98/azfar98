@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Azfar rahman ! 👋
 
-<!--
-**azfar98/azfar98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Software Engineering student, passionate about exploring and mastering modern software development practices.
 
-Here are some ideas to get you started:
+## 🌱 I’m excited to learn:
+- Effective software maintenance techniques
+- How to handle and improve legacy systems
+- Best practices for software evolution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Interests:
+- Coding and Open Source Contributions
+- [Your hobbies or interests, e.g., Gaming, Photography, Music]
+
+## 🎯 Course Expectations:
+I aim to develop practical skills to confidently maintain, upgrade, and enhance real-world software systems.
+
+## 🧩 Fun Fact:
+i am a cool person to talk 
+
+![azfar passport poto_1](https://github.com/user-attachments/assets/c889aea0-12ab-4212-a83b-00c7c6311294)
+<!-- Later, replace 'your-image.jpg' with your actual image URL/path -->
