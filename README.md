@@ -9,7 +9,7 @@ I'm currently a Software Engineering student, passionate about exploring and mas
 
 ## 🚀 My Interests:
 - Coding and Open Source Contributions
-- [Your hobbies or interests, e.g., Gaming, Photography, Music]
+- [badminton,archery, online games(APEX lengend,FIFA),Street Photography,]
 
 ## 🎯 Course Expectations:
 I aim to develop practical skills to confidently maintain, upgrade, and enhance real-world software systems.
