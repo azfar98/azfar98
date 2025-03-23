@@ -8,7 +8,7 @@ I'm currently a Software Engineering student, passionate about exploring and mas
 - Best practices for software evolution
 
 ## 🚀 My Interests:
-- Coding and Open Source Contributions
+- Coding and Open Source Contributions like mobile development, artificial intelligence
 - [badminton,archery, online games(APEX lengend,FIFA),Street Photography,]
 
 ## 🎯 Course Expectations:
