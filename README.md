@@ -19,3 +19,4 @@ i am a cool person to talk
 
 ![azfar passport poto_1](https://github.com/user-attachments/assets/c889aea0-12ab-4212-a83b-00c7c6311294)
 <!-- Later, replace 'your-image.jpg' with your actual image URL/path -->
+Thanks for the visit
